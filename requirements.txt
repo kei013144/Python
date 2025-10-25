@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scipy
+scikit-learn
+jupyter
+ipykernel
+pytest
+black
+flake8
